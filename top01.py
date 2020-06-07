@@ -18,7 +18,7 @@ else:
 
 
 txt01="""gap_x 0
-gap_y 830
+gap_y 826
 
 TEXT
 ${image img/gearwheels.png -p 0,0 -s 30x30}
